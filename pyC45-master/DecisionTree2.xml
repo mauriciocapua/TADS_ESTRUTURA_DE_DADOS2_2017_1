@@ -1,0 +1,74 @@
+<DecisionTree>
+   <descontos_loja flag="m" p="0.504" value="true">
+      <jogos_first_party flag="m" p="0.472" value="true">
+         <estabilidade_online flag="m" p="0.492" value="false">
+            <jogos_orientais flag="m" p="0.538" value="true">Xbox One</jogos_orientais>
+            <jogos_orientais flag="m" p="0.462" value="false">
+               <dublagem_ptbr flag="m" p="0.63" value="true">Xbox One</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.37" value="false">PS4</dublagem_ptbr>
+            </jogos_orientais>
+         </estabilidade_online>
+         <estabilidade_online flag="m" p="0.508" value="true">
+            <jogos_orientais flag="m" p="0.488" value="true">
+               <dublagem_ptbr flag="m" p="0.508" value="false">Nintendo Switch</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.492" value="true">Xbox One</dublagem_ptbr>
+            </jogos_orientais>
+            <jogos_orientais flag="m" p="0.512" value="false">
+               <dublagem_ptbr flag="m" p="0.548" value="true">Nintendo Switch</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.452" value="false">Xbox One</dublagem_ptbr>
+            </jogos_orientais>
+         </estabilidade_online>
+      </jogos_first_party>
+      <jogos_first_party flag="m" p="0.528" value="false">
+         <estabilidade_online flag="m" p="0.534" value="false">
+            <dublagem_ptbr flag="m" p="0.472" value="false">
+               <jogos_orientais flag="m" p="0.507" value="true">Nintendo Switch</jogos_orientais>
+               <jogos_orientais flag="m" p="0.493" value="false">Xbox One</jogos_orientais>
+            </dublagem_ptbr>
+            <dublagem_ptbr flag="m" p="0.528" value="true">Nintendo Switch</dublagem_ptbr>
+         </estabilidade_online>
+         <estabilidade_online flag="m" p="0.466" value="true">
+            <jogos_orientais flag="m" p="0.532" value="true">Xbox One</jogos_orientais>
+            <jogos_orientais flag="m" p="0.468" value="false">
+               <dublagem_ptbr flag="m" p="0.569" value="true">Xbox One</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.431" value="false">Nintendo Switch</dublagem_ptbr>
+            </jogos_orientais>
+         </estabilidade_online>
+      </jogos_first_party>
+   </descontos_loja>
+   <descontos_loja flag="m" p="0.496" value="false">
+      <jogos_first_party flag="m" p="0.51" value="false">
+         <jogos_orientais flag="m" p="0.565" value="false">
+            <estabilidade_online flag="m" p="0.476" value="true">
+               <dublagem_ptbr flag="m" p="0.471" value="true">PS4</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.529" value="false">Nintendo Switch</dublagem_ptbr>
+            </estabilidade_online>
+            <estabilidade_online flag="m" p="0.524" value="false">
+               <dublagem_ptbr flag="m" p="0.547" value="false">Xbox One</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.453" value="true">PS4</dublagem_ptbr>
+            </estabilidade_online>
+         </jogos_orientais>
+         <jogos_orientais flag="m" p="0.435" value="true">
+            <estabilidade_online flag="m" p="0.5" value="false">
+               <dublagem_ptbr flag="m" p="0.509" value="true">PS4</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.491" value="false">Nintendo Switch</dublagem_ptbr>
+            </estabilidade_online>
+            <estabilidade_online flag="m" p="0.5" value="true">
+               <dublagem_ptbr flag="m" p="0.455" value="true">Xbox One</dublagem_ptbr>
+               <dublagem_ptbr flag="m" p="0.545" value="false">PS4</dublagem_ptbr>
+            </estabilidade_online>
+         </jogos_orientais>
+      </jogos_first_party>
+      <jogos_first_party flag="m" p="0.49" value="true">
+         <dublagem_ptbr flag="m" p="0.539" value="false">
+            <jogos_orientais flag="m" p="0.527" value="false">Nintendo Switch</jogos_orientais>
+            <jogos_orientais flag="m" p="0.473" value="true">
+               <estabilidade_online flag="m" p="0.371" value="false">Nintendo Switch</estabilidade_online>
+               <estabilidade_online flag="m" p="0.629" value="true">PS4</estabilidade_online>
+            </jogos_orientais>
+         </dublagem_ptbr>
+         <dublagem_ptbr flag="m" p="0.461" value="true">Nintendo Switch</dublagem_ptbr>
+      </jogos_first_party>
+   </descontos_loja>
+</DecisionTree>
+

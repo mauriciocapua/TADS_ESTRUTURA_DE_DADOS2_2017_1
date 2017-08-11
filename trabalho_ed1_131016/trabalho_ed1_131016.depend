@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1476481181 source:d:\meus documentos\ifrs\4º semestre\estrutura de dados i\trabalho_ed1_131016\trabalho_ed1_131016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1476481766 d:\meus documentos\ifrs\4º semestre\estrutura de dados i\trabalho_ed1_131016\trabalho_ed1_131016\lib.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+

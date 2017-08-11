@@ -1,0 +1,6 @@
+jogos_orientais,descontos_loja,estabilidade_online,jogos_first_party,dublagem_ptbr,preco_console,retrocompatibilidade,portabilidade,class
+false,true,true,false,true,false,true,false,Xbox One
+true,true,true,true,true,false,false,false,PS4
+true,false,true,true,false,false,true,true,Nintendo Switch
+true,true,true,false,true,false,false,true,Vita
+true,false,true,true,false,false,true,true,3ds

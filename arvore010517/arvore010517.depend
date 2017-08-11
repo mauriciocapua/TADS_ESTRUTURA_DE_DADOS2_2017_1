@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493690488 source:c:\users\user\desktop\5º semestre\ed2\arvore010517\arvore010517\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lib.h"
+
+1493692691 c:\users\user\desktop\5º semestre\ed2\arvore010517\arvore010517\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+

@@ -1,0 +1,251 @@
+dublagem_ptbr,jogos_first_party,estabilidade_online,descontos_loja,jogos_orientais,retrocompatibilidade,portabilidade,class
+false,true,true,true,true,false,,PS4
+true,true,false,false,true,false,false,PS4
+false,true,false,true,true,false,false,PS4
+false,false,false,,true,false,false,PS4
+false,true,false,false,true,false,false,PS4
+false,false,true,false,true,false,false,PS4
+true,false,true,false,true,false,false,PS4
+true,false,true,false,true,false,false,PS4
+true,true,false,false,true,false,false,PS4
+true,true,true,false,false,false,false,PS4
+false,true,true,true,false,false,false,PS4
+false,false,,true,true,false,false,PS4
+true,false,false,true,false,false,false,PS4
+true,false,false,false,true,false,false,PS4
+true,true,false,false,false,false,false,PS4
+true,true,false,false,true,false,false,PS4
+false,false,true,true,false,false,false,PS4
+true,false,true,false,false,false,,PS4
+false,false,false,false,false,false,false,PS4
+true,false,true,true,true,false,,PS4
+true,true,false,true,true,false,false,PS4
+true,true,false,false,false,false,false,PS4
+true,false,true,false,false,false,false,PS4
+true,true,true,false,true,false,false,PS4
+false,true,false,false,false,false,false,PS4
+false,true,true,true,false,false,false,PS4
+true,true,true,false,true,false,false,PS4
+false,true,true,true,false,false,false,PS4
+true,true,false,true,false,false,false,PS4
+true,false,true,false,true,false,false,PS4
+false,false,false,true,false,false,false,PS4
+false,false,true,true,true,false,false,PS4
+true,false,false,true,false,false,false,PS4
+false,true,true,false,false,false,false,PS4
+true,false,false,false,false,false,false,PS4
+false,true,true,false,false,false,false,PS4
+false,true,false,false,true,false,false,PS4
+false,false,true,false,false,false,false,PS4
+false,false,false,false,false,false,false,PS4
+true,false,true,true,false,false,false,PS4
+false,true,false,true,true,false,false,PS4
+true,true,true,false,false,false,false,PS4
+false,false,true,true,false,false,false,PS4
+false,true,false,false,true,false,false,PS4
+false,true,false,false,true,false,false,PS4
+false,false,true,true,false,false,false,PS4
+true,false,true,true,false,false,false,PS4
+true,false,true,true,true,false,false,PS4
+true,false,true,false,true,false,false,PS4
+true,false,true,true,true,false,false,PS4
+false,true,true,false,false,false,false,Xbox One
+true,false,false,true,false,false,false,Xbox One
+true,true,true,true,false,false,false,Xbox One
+false,false,true,false,false,true,false,Xbox One
+false,true,true,true,false,true,false,Xbox One
+false,true,false,false,false,false,false,Xbox One
+false,false,true,false,false,false,false,Xbox One
+false,true,false,false,false,false,false,Xbox One
+true,true,true,true,false,false,false,Xbox One
+true,true,true,true,false,false,false,Xbox One
+true,true,false,false,false,true,false,Xbox One
+false,false,true,true,false,false,false,Xbox One
+false,false,true,false,false,true,false,Xbox One
+false,false,false,false,false,true,false,Xbox One
+false,false,true,true,false,false,false,Xbox One
+true,false,false,false,false,false,false,Xbox One
+true,false,false,true,false,true,false,Xbox One
+false,true,false,false,false,true,false,Xbox One
+false,false,true,false,false,false,false,Xbox One
+true,false,true,true,false,true,false,Xbox One
+false,true,true,true,false,true,false,Xbox One
+false,false,false,false,false,true,false,Xbox One
+true,true,true,false,false,false,false,Xbox One
+true,false,false,false,false,false,false,Xbox One
+false,false,false,true,false,false,false,Xbox One
+true,false,false,false,false,false,false,Xbox One
+false,true,true,false,false,true,false,Xbox One
+true,false,true,true,false,true,false,Xbox One
+true,false,true,true,false,true,false,Xbox One
+true,false,true,true,false,false,false,Xbox One
+true,false,true,false,false,false,false,Xbox One
+true,false,false,true,false,true,false,Xbox One
+false,false,true,true,false,true,false,Xbox One
+false,true,true,false,false,false,false,Xbox One
+true,true,true,true,false,false,false,Xbox One
+true,false,true,false,false,true,false,Xbox One
+false,false,false,true,false,false,false,Xbox One
+false,false,false,true,false,false,false,Xbox One
+true,true,false,true,false,false,false,Xbox One
+true,false,false,true,false,false,false,Xbox One
+true,true,true,true,false,false,false,Xbox One
+true,false,true,false,false,true,false,Xbox One
+true,true,false,false,false,false,false,Xbox One
+true,false,true,true,false,true,false,Xbox One
+true,true,true,true,false,true,false,Xbox One
+true,false,false,false,false,true,false,Xbox One
+true,true,true,false,false,false,false,Xbox One
+false,true,true,false,false,false,false,Xbox One
+false,false,true,false,false,false,false,Xbox One
+false,false,true,false,false,true,false,Xbox One
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,true,true,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,true,true,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,true,true,true,false,true,Nintendo Switch
+false,true,true,true,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,true,true,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,true,true,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,true,false,true,false,true,Nintendo Switch
+false,true,false,true,true,false,true,Nintendo Switch
+false,true,false,false,true,false,true,Nintendo Switch
+false,true,true,true,true,false,true,Nintendo Switch
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,false,true,true,true,Nintendo 3DS
+false,true,false,true,false,true,true,Nintendo 3DS
+false,true,false,true,true,true,true,Nintendo 3DS
+false,true,false,false,false,true,true,Nintendo 3DS
+true,true,false,true,false,false,true,Playstation Vita
+true,false,false,true,false,true,true,Playstation Vita
+false,true,true,true,true,false,true,Playstation Vita
+true,false,false,true,false,true,true,Playstation Vita
+true,true,false,true,true,false,true,Playstation Vita
+false,true,true,true,true,true,true,Playstation Vita
+false,false,true,true,true,true,true,Playstation Vita
+false,true,true,true,false,true,true,Playstation Vita
+true,false,true,true,true,true,true,Playstation Vita
+false,true,true,true,true,true,true,Playstation Vita
+true,false,true,true,true,false,true,Playstation Vita
+true,false,false,true,false,true,true,Playstation Vita
+true,false,false,true,true,false,true,Playstation Vita
+false,false,false,true,true,false,true,Playstation Vita
+false,true,false,true,true,false,true,Playstation Vita
+false,true,false,true,true,true,true,Playstation Vita
+false,true,true,true,true,true,true,Playstation Vita
+true,false,true,true,false,true,true,Playstation Vita
+true,true,true,true,false,true,true,Playstation Vita
+true,false,true,true,false,false,true,Playstation Vita
+false,false,false,true,false,true,true,Playstation Vita
+true,true,false,true,true,true,true,Playstation Vita
+false,true,false,true,false,false,true,Playstation Vita
+false,true,false,true,true,false,true,Playstation Vita
+false,true,true,true,true,false,true,Playstation Vita
+true,false,false,true,true,false,true,Playstation Vita
+false,false,true,true,true,true,true,Playstation Vita
+true,true,true,true,false,false,true,Playstation Vita
+false,false,true,true,true,false,true,Playstation Vita
+false,true,true,true,false,true,true,Playstation Vita
+false,true,true,true,true,true,true,Playstation Vita
+false,false,false,true,false,false,true,Playstation Vita
+false,false,false,true,false,false,true,Playstation Vita
+false,true,false,true,false,false,true,Playstation Vita
+true,true,false,true,false,true,true,Playstation Vita
+true,false,true,true,true,false,true,Playstation Vita
+false,true,false,true,false,false,true,Playstation Vita
+false,true,true,true,true,true,true,Playstation Vita
+true,false,false,true,false,true,true,Playstation Vita
+false,false,true,true,true,true,true,Playstation Vita
+false,false,true,true,false,true,true,Playstation Vita
+true,false,true,true,false,true,true,Playstation Vita
+true,false,false,true,true,false,true,Playstation Vita
+false,false,true,true,false,true,true,Playstation Vita
+true,true,false,true,false,true,true,Playstation Vita
+false,true,true,true,true,true,true,Playstation Vita
+true,false,false,true,false,true,true,Playstation Vita
+false,false,false,true,true,false,true,Playstation Vita
+false,false,false,true,true,true,true,Playstation Vita
+true,true,true,true,true,false,true,Playstation Vita
